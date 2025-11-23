@@ -41,6 +41,7 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 16:** [OOP Coffee Machine](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day016/Project/main.py)
 * **Day 17:** [The Quiz Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day017/Project/main.py)
 * **Day 18:** [Hirst Painting](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day018/Project/Hirst_Painting.py)
+* **Day 19:** [Turtle Race](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day019/Project/Turtle%20Race.py) [Etch a Sketch](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day019/Project/Etch%20a%20Sketch.py)
 
 
 ## Course Details
