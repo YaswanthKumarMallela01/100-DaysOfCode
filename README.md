@@ -31,7 +31,7 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 8:** [Caesar Cipher](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day008/Project/Caesar_Cipher.py)
 * **Day 9:** [Secret Auction](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day009/Project/Secret_Auction.py)
 * **Day 10:** [Calculator](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day010/Project/Calculator.py)
-* **Day 11:** [Black Jack Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day011/Capstone_Project/BlackJack.py)
+* **Day 11:** [Black Jack Game(Capstone Project)](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day011/Capstone_Project/BlackJack.py)
 * **Day 12:** [Number Guessing Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day012/Project/NumberGuessingGame.py)
 * **Day 13:** Handling Bugs
 * **Day 14:** [Higher Lower Game](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day014/Project/HigherLowerGame.py)  <br>
@@ -44,6 +44,7 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 19:** [Turtle Race](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day019/Project/Turtle%20Race.py) and [Etch a Sketch](https://github.com/Yash864512/100-DaysOfCode/blob/master/Day019/Project/Etch%20a%20Sketch.py)
 * **Day 20:** [Snake Game(Part-1)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day020/Project/main.py)
 * **Day 21:** [Snake Game(Complete)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day021/Project/main.py)
+* **Day 22:** [Pong Game](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day022/Project/main.py)
 
 
 ## Course Details
