@@ -45,6 +45,7 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 20:** [Snake Game(Part-1)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day020/Project/main.py)
 * **Day 21:** [Snake Game(Complete)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day021/Project/main.py)
 * **Day 22:** [Pong Game](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day022/Project/main.py)
+* **Day 23:** [Turtle Crossing Game(Capstone Project)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day023/CapStone%20Project/main.py)
 
 
 ## Course Details
