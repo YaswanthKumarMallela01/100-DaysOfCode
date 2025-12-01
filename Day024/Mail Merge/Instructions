@@ -1,0 +1,4 @@
+Delete all the files in Ready to send folder which is located in output folder, then
+run the main.py file to automatically create letters to particular persons. If you want to
+add more name to send to your people, you can add names in invited_names.txt file which is
+located in Input folder -> Names.
