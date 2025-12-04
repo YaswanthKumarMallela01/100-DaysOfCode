@@ -50,7 +50,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 25:** [India State Game](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day025/Project/main.py)
 * **Day 26:** [NATO Alphabet](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day026/Project/main.py)
 * **Day 27:** [Miles to Kilometer Converter](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day027/Project/Distance_Converter.py)
-* **Day 28:** Coming Soon....
+* **Day 28:** [Pomodoro GUI](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day028/Project/main.py)
+* **Day 29:** Coming Soon....
 
 
 ## Course Details
