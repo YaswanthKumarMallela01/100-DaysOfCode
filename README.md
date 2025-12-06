@@ -52,7 +52,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 27:** [Miles to Kilometer Converter](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day027/Project/Distance_Converter.py)
 * **Day 28:** [Pomodoro GUI](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day028/Project/main.py)
 * **Day 29:** [Password Manager GUI](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day029/main.py)
-* **Day 30:** Coming Soon....
+* **Day 30:** [NATO Phonetic Alphabet Improved](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day030/Project/NATO%20Phonetic%20Alphabet%20Improved/main.py) | [Password Manager GUI Improved](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day030/Project/Password%20Manager%20GUI%20Improved/main.py)
+* **Day 31:** Coming Soon....
 
 
 ## Course Details
