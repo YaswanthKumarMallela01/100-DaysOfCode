@@ -1,0 +1,10 @@
+{
+    "expenses": [
+        {
+            "date": "2025-12-08",
+            "category": "Healthcare & Medical",
+            "description": "Took Insurance for all the family members, which is 1400 per month for each person. There are 4 members in my family.",
+            "amount": 5600.0
+        }
+    ]
+}
