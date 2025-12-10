@@ -53,6 +53,7 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 28:** [Pomodoro GUI](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day028/Project/main.py)
 * **Day 29:** [Password Manager GUI](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day029/main.py)
 * **Day 30:** [NATO Phonetic Alphabet Improved](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day030/Project/NATO%20Phonetic%20Alphabet%20Improved/main.py) | [Password Manager GUI Improved](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day030/Project/Password%20Manager%20GUI%20Improved/main.py)
+* **My Own Project:** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Finance%20Friend/main.py)
 * **Day 31:** Coming Soon....
 
 
