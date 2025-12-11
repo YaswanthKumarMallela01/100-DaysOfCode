@@ -54,7 +54,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 29:** [Password Manager GUI](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day029/main.py)
 * **Day 30:** [NATO Phonetic Alphabet Improved](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day030/Project/NATO%20Phonetic%20Alphabet%20Improved/main.py) | [Password Manager GUI Improved](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day030/Project/Password%20Manager%20GUI%20Improved/main.py)
 * **Day 31:** [Flash Card(Improved version)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day031/Capstone%20Project/main.py)
-* **Day 32:** Coming Soon.... <br>
+* **Day 32:** [Automated Motivational Quotes Sender](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day032/Project/Automated%20Motivational%20Quotes%20Sender/main.py) | [Automated Birthday Wisher](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day032/Project/Automated%20Birthday%20Wisher/main.py)
+* **Day 33:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Finance%20Friend/main.py)
