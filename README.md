@@ -56,9 +56,9 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 31:** [Flash Card(Improved version)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day031/Capstone%20Project/main.py)
 * **Day 32:** [Automated Motivational Quotes Sender](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day032/Project/Automated%20Motivational%20Quotes%20Sender/main.py) | [Automated Birthday Wisher](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day032/Project/Automated%20Birthday%20Wisher/main.py)
 * **Day 33:** [Kanye Quotes](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day033/Learnings/Kanye%20Quotes/kanye.py) | [ISS Tracker](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day033/Project/ISS%20Tracker/main.py)
-* **Day 34:** Coming Soon....
+* **Day 34:** [GUI Quiz game(Using Open Trivia DB API)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day034/Project)
+* **Day 35:** Coming Soon....
 <br>
-
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Finance%20Friend/main.py)
 
