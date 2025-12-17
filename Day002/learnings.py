@@ -25,7 +25,7 @@ print(5 ** 3)  # Exponent
 
 # Round function
 num = 58.7689258475
-print(round(num))
+print(round(num))  # Rounds to nearest whole number
 print(round(num, 2))
 
 # f-String
