@@ -23,7 +23,7 @@ print(password)
 random.shuffle(password)  # Shuffles the items in the list
 print(password)
 
-password_string= ""  # Empty string
+password_string = ""  # Empty string
 for pw in password:
     password_string += pw  # Adding chars from list to string
 

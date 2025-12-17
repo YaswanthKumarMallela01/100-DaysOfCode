@@ -25,7 +25,7 @@ print(f"\nMax using for loop: {max_using_forLoop}")
 
 # -----------------> Range Function in for loop
 
-for num in range(1, 10):  # 1 <= num < 10, 10 is exclusive. So it will only prints from 1 to 9
+for num in range(1, 10):  # 1 <= num < 10, 10 is exclusive. So it will only print from 1 to 9
     print(num)
 
 print("\n")
