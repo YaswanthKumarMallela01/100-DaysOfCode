@@ -13,9 +13,9 @@ states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia", "Conne
 print(states_of_america[0])  # Prints the 1st state
 print(states_of_america[-1])  # Prints the last state
 
-states_of_america[1] = "Pencilvania"  # Changes from "Pennsylvania" to "Pencilvania"
+states_of_america[1] = "Pencilvania"  # Changes from "Pennsylvania" to "Pencilvania" in the original list
 
-states_of_america.append("JohnnyLand")  # Adds the new state at the end of the list
+states_of_america.append("JohnnyLand")  # Adds the new state at the end of the original list
 states_of_america.extend(["LaLaLand", "ChocolateLand"])  # Extends the existing list with new list
 
 #  There are so many other functions related to Lists data structure. Explore them from the internet
