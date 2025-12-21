@@ -61,7 +61,7 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 36:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
-* **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Finance%20Friend/main.py)
+* **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/MY%20PROJECTS/Finance%20Friend)
 
 ## Course Details
 
