@@ -59,7 +59,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 34:** [GUI Quiz game(Using Open Trivia DB API)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day034/Project)
 * **Day 35:** [Will it Rain(SMS via Twilio API)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day035/Project/main.py)
 * **Day 36:** [Stock Trading News Alert Project](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day036/Project)
-* **Day 37:** Coming Soon.... <br>
+* **Day 37:** [Pixela Habit Tracking](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day037/Project)
+* **Day 38:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/MY%20PROJECTS/Finance%20Friend)
