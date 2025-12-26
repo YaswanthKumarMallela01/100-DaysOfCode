@@ -62,7 +62,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 37:** [Pixela Habit Tracking](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day037/Project)
 * **Day 38:** [Workout Tracking Using Google Sheets](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day038/Project)
 * **Day 39:** [Flight Deals Finder](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day039/Project)
-* **Day 40:** Coming Soon.... <br>
+* **Day 40:** [Flight Club](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day040/Project)
+* **Day 41:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/MY%20PROJECTS/Finance%20Friend)
