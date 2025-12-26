@@ -1,0 +1,23 @@
+==================================
+SHEETY_USRERNAME=""
+SHEETY_PASSWORD=""
+SHEETY_PRICES_ENDPOINT="https://api.sheety.co/{USERNAME}/flightDeals/prices"
+SHEETY_USERS_ENDPOINT="https://api.sheety.co/{USERNAME}/flightDeals/users"
+AMADEUS_API_KEY="vJ3Bka0RFGlhS0faAnSiP4dcAIdzZjjN"
+AMADEUS_SECRET=""
+TWILIO_SID=""
+TWILIO_AUTH_TOKEN="403e63f6456122c35feb8ffd40264d4e"
+TWILIO_VIRTUAL_NUMBER="+16416476462"
+TWILIO_VERIFIED_NUMBER=""
+TWILIO_WHATSAPP_NUMBER=""
+EMAIL_PROVIDER_SMTP_ADDRESS="smtp.gmail.com"
+MY_EMAIL=""
+MY_EMAIL_PASSWORD=""
+==================================
+
+I am not exposing all my details as it leads to misuse to unethical things.
+
+Create a .env file and copy paste the above data and assign the required values to it
+Refer main.py for respective API details and documentations
+Add Flight Deals.xlsx to google sheets.
+If you are stuck email me at yashwanthkumarmallela@gmail.com
