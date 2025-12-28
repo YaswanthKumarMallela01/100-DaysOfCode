@@ -64,7 +64,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 39:** [Flight Deals Finder](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day039/Project)
 * **Day 40:** [Flight Club](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day040/Project)
 * **Day 41:** [Movie Ranking(HTML Foundation)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day041/41.4%20Movie%20Ranking%20Project)
-* **Day 42:** Coming Soon.... <br>
+* **Day 42:** [Birthday Invite (Intermediate HTML)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day042/42.5%20Birthday%20Invite%20Project)
+* **Day 43:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/MY%20PROJECTS/Finance%20Friend)
