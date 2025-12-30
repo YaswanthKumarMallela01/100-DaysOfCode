@@ -67,7 +67,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 42:** [Birthday Invite (Intermediate HTML)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day042/42.5%20Birthday%20Invite%20Project)
 * **Day 43:** [Color Vocab (CSS Foundation)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day043/43.3%20Color%20Vocab%20Project)
 * **Day 44:** [Motivation Meme(Intermediate CSS)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day044/44.4%20Motivation%20Meme%20Project)
-* **Day 45:** Coming Soon.... <br>
+* **Day 45:** [YCombinator(Popular articles)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day045/Project/YCombinator) | [Top 100 Movies](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day045/Project/100Movies)
+* **Day 46:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/MY%20PROJECTS/Finance%20Friend)
