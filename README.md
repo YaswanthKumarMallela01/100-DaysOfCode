@@ -71,7 +71,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 46:** [Music Time Machine](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day046/Project)
 * **Day 47:** [Automated Amazon Price Tracker](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day047/Project/main.py)
 * **Day 48:** [Pirate Parrot's Bakery(Automated Game Playing)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day048/Project)
-* **Day 49:** Coming Soon.... <br>
+* **Day 49:** [Automated GYM Class Scheduler](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day049/Project/main.py)
+* **Day 50:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/MY%20PROJECTS/Finance%20Friend)
