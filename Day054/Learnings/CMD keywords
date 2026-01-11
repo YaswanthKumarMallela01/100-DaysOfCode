@@ -1,0 +1,8 @@
+pwd    — Displays the absolute path of the current working directory.
+ls     — Lists files and directories in the current location.
+cd     — Changes the current working directory.
+mkdir  — Creates a new directory.
+touch  — Creates an empty file or updates a file’s timestamp.
+rm     — Deletes files or directories.
+cd ..  — Moves one level up to the parent directory.
+rm -rf — Forcefully and recursively deletes files or directories without confirmation.
