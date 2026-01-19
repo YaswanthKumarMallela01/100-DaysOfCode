@@ -78,7 +78,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 53:** [Automated Data Entry Job](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day053/Capstone%20Project/main.py)
 * **Day 54:** [Web Development with Flask(Decorator Functions)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day054/Learnings)
 * **Day 55:** [Higher or Lower URL's](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day055/Project)
-* **Day 56:** Coming Soon.... <br>
+* **Day 56:** [Name Card Website](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day056/Project2)
+* **Day 57:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/MY%20PROJECTS/Finance%20Friend)
