@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Website</title>
+</head>
+<body>
+<h1>Hello World!</h1>
+<h2>{{2 * 3}}</h2>
+<h3>Random No: {{ num }}</h3>
+<!-- Here url_for is a python function that returns the url of a flask function that is defined in server.py. Here the function is get_blog -->
+<a href="{{ url_for('get_blog') }}">Click me for blogs</a>
+</body>
+<footer>Hi this is {{ year }}</footer>
+</html>
