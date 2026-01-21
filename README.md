@@ -83,7 +83,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 58:** [TinDog (Bootstrap)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day058/Project/TinDog%20Project) <br>
 
 ** <-------------------- Advanced Level Projects --------------------> **
-* **Day 59:** Coming Soon.... <br>
+* **Day 59:** [Blog](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day059/Capstone%20Project)
+* **Day 60:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/MY%20PROJECTS/Finance%20Friend)
