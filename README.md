@@ -80,7 +80,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 55:** [Higher or Lower URL's](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day055/Project)
 * **Day 56:** [Name Card Website](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day056/Project2)
 * **Day 57:** [Jinja Templating](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day057/Project)
-* **Day 58:** Coming Soon.... <br>
+* **Day 58:** [TinDog (Bootstrap)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day058/Project/TinDog%20Project)
+* **Day 59:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/MY%20PROJECTS/Finance%20Friend)
