@@ -84,7 +84,7 @@ This repository is actively maintained. My progress is tracked by project day:  
 
 ** <-------------------- Advanced Level Projects --------------------> **
 * **Day 59:** [Blog](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day059/Capstone%20Project)
-* **Day 60:** [Blog-2(POST Requests with Flask and HTML Forms)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day060/Project)
+* **Day 60:** [Blog-2 (POST Requests with Flask and HTML Forms)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day060/Project)
 * **Day 61:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
