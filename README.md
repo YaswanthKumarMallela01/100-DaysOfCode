@@ -85,7 +85,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 ** <-------------------- Advanced Level Projects --------------------> **
 * **Day 59:** [Blog](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day059/Capstone%20Project)
 * **Day 60:** [Blog-2 (POST Requests with Flask and HTML Forms)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day060/Project)
-* **Day 61:** Coming Soon.... <br>
+* **Day 61:** [Advanced Forms using Flask-WTforms](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day061/Learnings/main.py)
+* **Day 62:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/MY%20PROJECTS/Finance%20Friend)
