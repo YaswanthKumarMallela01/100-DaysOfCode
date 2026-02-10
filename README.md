@@ -89,7 +89,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 62:** [Coffee & Wi-Fi](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day062/Project/main.py)
 * **Day 63:** [Virtual Bookshelf (SQLite|SQLAlchemy)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day063/Project/main.py)
 * **Day 64:** [My Top 10 Movies](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day064/Project/main.py)
-* **Day 65:** Coming Soon.... <br>
+* **Day 65:** [Web Design](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day065/Learnings)
+* **Day 66:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/MY%20PROJECTS/Finance%20Friend)
