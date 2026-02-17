@@ -92,7 +92,8 @@ This repository is actively maintained. My progress is tracked by project day:  
 * **Day 65:** [Web Design](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/Day065/Learnings)
 * **Day 66:** [Cafe & Wi-Fi](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day066/Learnings/main.py)
 * **Day 67:** [Blog-3 (RESTfull Routing)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day067/Capstone%20Project/main.py)
-* **Day 68:** Coming Soon.... <br>
+* **Day 68:** [Cheat Sheet (Hashing and Salting)](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/blob/master/Day068/Project/main.py)
+* **Day 69:** Coming Soon.... <br>
 
 ** <---------------- My Own Projects from Learnings -----------------> **
 * **Day 01-30** [Finance Friend](https://github.com/YaswanthKumarMallela01/100-DaysOfCode/tree/master/MY%20PROJECTS/Finance%20Friend)
