@@ -1,0 +1,22 @@
+git clone <repo_url> – Creates a local copy of a remote repository.
+
+git status – Shows the current state of the working directory and staging area.
+
+git add . – Stages all modified and new files for the next commit.
+
+git commit -m "message" – Records staged changes with a descriptive message.
+
+git push – Uploads local commits to the remote repository.
+
+git pull – Fetches and merges changes from the remote branch into local.
+
+git branch – Lists, creates, or deletes branches.
+
+git checkout <branch> – Switches to a different branch or commit.
+
+git merge <branch> – Integrates changes from another branch into the current one.
+
+git log – Displays the commit history of the repository.
+
+git rm --cached -r . – Removes all files from Git tracking while keeping them locally (commonly used after updating .gitignore).
+
